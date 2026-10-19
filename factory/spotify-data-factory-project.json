@@ -1,0 +1,15 @@
+{
+	"name": "spotify-data-factory-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b8e255a-192a-4fd0-861c-1d398471c937",
+		"tenantId": "49b84540-eb00-44a6-bfcf-23ffcb66b044"
+	}
+}
